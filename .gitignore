@@ -1,0 +1,9 @@
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.out
+*s4549775.pdf
+*.run.xml
+*.tex
