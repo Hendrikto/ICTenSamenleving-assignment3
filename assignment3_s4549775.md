@@ -16,6 +16,13 @@ Looking at the dictionary definitions of intelligence, we find multiple differen
 
 * "The ability to acquire and apply knowledge and skills." [@oxford_intelligence]
 * "the act of understanding" [@mw_intelligence]
+
+  This is a very broad definition. What does understanding mean? If we look this up in the dictionary, it is defined circularly as "The ability to understand something" [@oxford_understanding]. And understand is defined as
+
+  * "Perceive the intended meaning of (words, a language, or a speaker)" [@oxford_understand]
+  * "Interpret or view (something) in a particular way" [@oxford_understand]
+
+  None of this lets us really put a finger on what intelligence really means and does not help us draw a line between what is intelligent and what is not.
 * "the ability to learn or understand or to deal with new or trying situations" [@mw_intelligence]
 * "the ability to apply knowledge to manipulate one's environment or to think abstractly as measured by objective criteria (such as tests)" [@mw_intelligence]
 
