@@ -24,6 +24,10 @@ Looking at the dictionary definitions of intelligence, we find multiple differen
 
   None of this lets us really put a finger on what intelligence really means and does not help us draw a line between what is intelligent and what is not.
 * "the ability to learn or understand or to deal with new or trying situations" [@mw_intelligence]
+
+  This definition has the same problems as the one before with regards to "understanding" being ill-defined. It introduces further unclarities by referencing "new or trying situations". If an intelligent agent solved the trying new problem "1 + 1 = x", and then encounters the problem "1 + 2 = y", is that trying? Is that new? What about the problem "1 * 2 = x" (which can be broken down into "1 + 1 = x")?
+
+  You could argue that all these problems are just applications of (repeated) addition, but you could also argue that each problem is new and trying. It is pretty obvious that this is not a rigorous definition, and still leaves much room for interpretation.
 * "the ability to apply knowledge to manipulate one's environment or to think abstractly as measured by objective criteria (such as tests)" [@mw_intelligence]
 
 We can ignore the definition "the collection of information of military or political value" [@oxford_intelligence], which is not the type of intelligence ML and AI are dealing with.
