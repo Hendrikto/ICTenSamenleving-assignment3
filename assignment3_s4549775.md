@@ -30,6 +30,10 @@ Looking at the dictionary definitions of intelligence, we find multiple differen
   You could argue that all these problems are just applications of (repeated) addition, but you could also argue that each problem is new and trying. It is pretty obvious that this is not a rigorous definition, and still leaves much room for interpretation.
 * "the ability to apply knowledge to manipulate one's environment or to think abstractly as measured by objective criteria (such as tests)" [@mw_intelligence]
 
+  This definition also has multiple shortcomings, but let us address the most obvious one: If there is an objective criterion that can be measured with a test, then entities can be ordered by their intelligence based on their performance on this test. Now image the following situation: Entity $a$ scored better than entity $b$ on the first test: $a >_1 b$. Entity $b$ scored better in the second test than entity $a$: $a <_2 b$. This situation often happens in real world tests. Is is totally unclear whether $a$ or $b$ is the more intelligent entity.
+
+  We assumed that there are objective criteria that can be a measure of one's intelligence. From this assumption we derived a contradiction. That means that the assumption must have been wrong. This is a classical proof by contradiction, which shows that the given definition has logical fallacies.
+
 We can ignore the definition "the collection of information of military or political value" [@oxford_intelligence], which is not the type of intelligence ML and AI are dealing with.
 
 The goal of this article is to break down what intelligence means, and how it relates to current ML and AI research. Once we have established a solid definition, we can use it to properly talk about the (dis)advantages of some fields of research, the risks involved, and their societal influence.
