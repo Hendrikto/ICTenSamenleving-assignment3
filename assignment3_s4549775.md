@@ -42,3 +42,4 @@ Looking at the dictionary definitions of intelligence, we find multiple differen
 
 We can ignore the definition "the collection of information of military or political value" [@oxford_intelligence], which is not the type of intelligence ML and AI are dealing with.
 
+As we have demonstrated, all the traditional definitions of intelligence are lacking if you want to have a scientific discussion based on them. In the following we want to establish a rigorous definition to enable founded, productive conversations on the topic.
