@@ -49,7 +49,7 @@ I propose the following definition for intelligence:
 
 > The ability to learn arbitrary tasks.
 
-Where learning is defined as improving performance on a specific task without being explicitly told what to do. This improvement is achieved by looking at some kind of data. This does not exclude being taught, but only if it goes beyond explicit instructions like "if a then do b". [@10.1147]
+Where learning is defined as improving performance on a specific task without being explicitly told what to do. This improvement is achieved by looking at some kind of data. This does not exclude being taught, but only if it goes beyond explicit instructions like "if a then do b". [@10.1147] This also does not prevent having such rules as an outcome of learning, as long as the leaning entity comes up with them on its own.
 
 Notice how we completely leave comprehension or understanding out of the picture here. Thus we also leave all the difficulties in defining what exactly that means behind us as well.
 
