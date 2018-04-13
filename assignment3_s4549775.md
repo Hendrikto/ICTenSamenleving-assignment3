@@ -43,3 +43,14 @@ Looking at the dictionary definitions of intelligence, we find multiple differen
 We can ignore the definition "the collection of information of military or political value" [@oxford_intelligence], which is not the type of intelligence ML and AI are dealing with.
 
 As we have demonstrated, all the traditional definitions of intelligence are lacking if you want to have a scientific discussion based on them. In the following we want to establish a rigorous definition to enable founded, productive conversations on the topic.
+
+## New definition
+I propose the following definition for intelligence:
+
+> The ability to learn arbitrary tasks.
+
+Where learning is defined as improving performance on a specific task without being explicitly told what to do. This improvement is achieved by looking at some kind of data. This does not exclude being taught, but only if it goes beyond explicit instructions like "if a then do b". [@10.1147]
+
+Notice how we completely leave comprehension or understanding out of the picture here. Thus we also leave all the difficulties in defining what exactly that means behind us as well.
+
+This definition is a lot narrower than the ones we looked at before, which is exactly its advantage: It does not leave important points open to interpretation. The rigidity of this definition allows us to draw an explicit line between intelligent and non-intelligent behavior. It also addresses the shortcomings of previous definitions as we will see.
