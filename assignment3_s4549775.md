@@ -54,3 +54,8 @@ Where learning is defined as improving performance on a specific task without be
 Notice how we completely leave comprehension or understanding out of the picture here. Thus we also leave all the difficulties in defining what exactly that means behind us as well.
 
 This definition is a lot narrower than the ones we looked at before, which is exactly its advantage: It does not leave important points open to interpretation. The rigidity of this definition allows us to draw an explicit line between intelligent and non-intelligent behavior. It also addresses the shortcomings of previous definitions as we will see.
+
+## Implications
+The definition showcases that intelligence is an emergent phenomenon: If we succeed at implementing an ML system $x$ that is good at making ML systems, we can bootstrap an intelligent system. The ML system $x$ is not itself intelligent: It is able to learn generating ML systems, but nothing else. It does not generalize. The ML systems it generates are also specific and therefore not intelligent: They can learn one specific task which they were made for.
+
+If we look of the whole AI consisting of $x$ and the ML systems $x$ can generate, intelligence emerges: If we ask the AI to learn an arbitrary task, $x$ can generate an ML system $y$ that is able to learn this tasks. If the AI has the ability to learn arbitrary tasks, which we have just demonstrated, it is intelligent according to our definition.
