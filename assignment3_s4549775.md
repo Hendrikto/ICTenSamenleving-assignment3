@@ -66,7 +66,7 @@ For another intelligent entity take dogs as an example. Dogs are able to learn e
 
 We can also use our definition to explain the situation where we had $a >_1 b$ and $a <_2 b$, so we could not decide whether $a > b$ or $a < b$. The problem with the tests is, that they do not actually measure intelligence, but its symptoms.
 
-Typical "tests of mental ability" rank test subjects by asking them so solve a range of problems in some domains. [@gfactor] This is not an accurate measure of intelligence, as has been demonstrated before. There are totally non-intelligent systems which can score very well on these sorts of tests, based purely on statistical models. [@todai]
+Typical "tests of mental ability" rank test subjects by asking them to solve a range of problems in some domains. [@gfactor] This is not an accurate measure of intelligence, as has been demonstrated before. There are totally non-intelligent systems which can score very well on these sorts of tests, based purely on statistical models. [@todai]
 
 What these tests are actually measuring is how much you heave learned in some specific fields of study. They do not measure an entity's actual ability to learn. If you assume that each individual has the same motivation to use its intelligence by learning, and that they learn about the same things, then the score on these tests may be a good indicator for mental abilities. This is why in practice "people who do well on one kind of test tend to do well on the others, and people who do poorly generally do so across the board". [@gfactor] Still what we are measuring is not intelligence.
 
