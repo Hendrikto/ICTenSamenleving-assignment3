@@ -64,7 +64,7 @@ For humans this is obvious, as the whole education system with a myriad of diffe
 
 For another intelligent entity take dogs as an example. Dogs are able to learn every trick you can think of, as long as they are willing and physically able to do so. It may take them longer, and may need to be broken down into small steps compared to teaching the same to a person. This is why we consider dogs less intelligent compared to humans. In the end the dogs are able to learn though. Obviously not every dog is equally intelligent and equally motivated to use its intelligence, but this is not of importance here.
 
-We can also use our definition to explain the situation where we had $a >_1 b$ and $a <_2 b$, so we could not decide whether $a > b$ or $a < b$. The problem with the tests is, that they do not actually measure intelligence, but symptoms of intelligence.
+We can also use our definition to explain the situation where we had $a >_1 b$ and $a <_2 b$, so we could not decide whether $a > b$ or $a < b$. The problem with the tests is, that they do not actually measure intelligence, but its symptoms.
 
 Typical "tests of mental ability" rank test subjects by asking them so solve a range of problems in some domains. [@gfactor] This is not an accurate measure of intelligence, as has been demonstrated before. There are totally non-intelligent systems which can score very well on these sorts of tests, based purely on statistical models. [@todai]
 
