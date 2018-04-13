@@ -55,6 +55,15 @@ Notice how we completely leave comprehension or understanding out of the picture
 
 This definition is a lot narrower than the ones we looked at before, which is exactly its advantage: It does not leave important points open to interpretation. The rigidity of this definition allows us to draw an explicit line between intelligent and non-intelligent behavior. It also addresses the shortcomings of previous definitions as we will see.
 
+## Application
+According to our new definition, current so called "artificial intelligence" solutions are not in fact intelligent. As far as I can tell, there does not exists a system which can learn arbitrary tasks. There are a lot of ML systems around that are able to learn. However they are all limited to learning a specific task, which means that they are not intelligent.
+
+If we apply the definition to "obviously intelligent" entities, like humans and many animals, such as dogs, we see that it matches our expectations. These entities are considered intelligent following the definition.
+
+For humans this is obvious, as the whole education system with a myriad of different specialization options is a manifestation of this. Also every year new research areas are discovered. So far there has been no task humans were not able to approach by learning about it, even if it was previously unknown.
+
+For another intelligent entity take dogs as an example. Dogs are able to learn every trick you can think of, as long as they are willing and physically able to do so. It may take them longer, and may need to be broken down into small steps compared to teaching the same to a person. This is why we consider dogs less intelligent compared to humans. In the end the dogs are able to learn though. Obviously not every dog is equally intelligent and equally motivated to use its intelligence, but this is not of importance here.
+
 ## Implications
 The definition showcases that intelligence is an emergent phenomenon: If we succeed at implementing an ML system $x$ that is good at making ML systems, we can bootstrap an intelligent system. The ML system $x$ is not itself intelligent: It is able to learn generating ML systems, but nothing else. It does not generalize. The ML systems it generates are also specific and therefore not intelligent: They can learn one specific task which they were made for.
 
